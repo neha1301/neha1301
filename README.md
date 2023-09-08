@@ -1,4 +1,4 @@
-<h1 align="left">Hey, I'm Neha Sharma👋</h1>
+<h1 align="center">Hey, I'm Neha Sharma👋</h1>
 
 ###
 
@@ -51,15 +51,10 @@
 ###
 
 <div align="left">
-  
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linkedin logo"  />
-
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="discord logo"  />
-
-
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="gmail logo"  />
-
-
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="twitter logo"  />
-
+  <a href="https://www.linkedin.com/in/neha1301/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linkedin logo"  /></a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="twitter logo"  />
 </div>
+
+###
