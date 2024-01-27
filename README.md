@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🏅Top 30 performer in Girls Wonna Code 4.0<br>🎗 Flipkart Girls Wonna Code 4.0 Mentee<br>📝 Currently Learning JavaScript and <br>Spring Boot<br>❤ Love networking!</p>
+<p align="left">🏅Top 30 performer in Girls Wonna Code 4.0<br>🎗 Flipkart Girls Wonna Code 4.0 Mentee<br>📝 Currently Learning JavaScript and Spring Boot<br>❤ Love networking!</p>
 
 ###
 
