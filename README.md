@@ -1,63 +1,96 @@
-<h1 align="center">Hey, I'm Neha Sharma👋</h1>
+# 👋 Hi, I'm Neha Sharma
 
-###
+🚀 **DevOps / Site Reliability Engineer**  
+☁️ Cloud • Kubernetes • Automation • Observability  
+📍 India
 
-<p align="left">🏅Top 30 performer in Girls Wonna Code 4.0<br>🎗 Flipkart Girls Wonna Code 4.0 Mentee<br>📝 Currently Learning JavaScript and Spring Boot<br>❤ Love networking!</p>
+---
 
-###
+## 👩‍💻 About Me
 
-<h3 align="left">💻 Tech Stack:</h3>
+I’m a **DevOps / SRE Engineer with ~2 years of hands-on experience** building, operating, and scaling cloud-native infrastructure.  
+I enjoy solving production issues, automating repetitive workflows, and improving system reliability using strong engineering principles.
 
-###
+I work closely with developers and stakeholders to ensure systems are **reliable, observable, and cost-efficient** in production.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="38" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="38" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="38" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="38" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo"  />
-</div>
+---
 
-###
+## 🛠️ Tech Stack
 
-<h4 align="left">Connect With Me 🌟</h4>
+### ☁️ Cloud & Infrastructure
+- AWS (EKS, EC2, IAM, VPC)
+- GCP (GKE)
+- Terraform (IaC)
+- Helm (production-grade charts)
 
-###
+### 🐳 Containers & Orchestration
+- Kubernetes
+- Docker
+- KEDA (event-driven autoscaling)
+- Karpenter (node autoscaling)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/neha1301/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="linkedin logo"  /></a>
-    <a href="">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="discord logo"  /></a>
-    <a href="mailto:nehashar1301@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="gmail logo"  /></a>
-    <a href="https://twitter.com/Nehasha20002227">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="twitter logo"  /></a>
-</div>
+### 📊 Observability & Reliability
+- Prometheus
+- Grafana
+- Alertmanager
+- Pyroscope
+- SLO / SLIs
+- Incident response & on-call practices
 
-###
+### 🔁 CI/CD & Automation
+- Jenkins
+- GitLab CI
+- Bash & Python scripting
+- Deployment automation
+
+### 🖥️ OS & Debugging
+- Linux internals
+- Networking basics
+- Performance troubleshooting
+- Production debugging
+
+---
+
+## 📌 What I’m Working On
+
+- 🔹 Kubernetes debugging & visibility tooling  
+- 🔹 Improving cluster cost optimization and autoscaling strategies  
+- 🔹 Writing production-ready Python automation for infra & ops  
+- 🔹 Deepening SRE practices (SLOs, error budgets, incident retros)
+
+---
+
+## 📈 Highlights
+
+- Automated operational workflows, reducing manual effort by **60%**
+- Built and managed **15+ Helm charts** for production environments
+- Led **AWS → GCP migration** with zero downtime
+- Improved MTTR by **25%** through better observability & automation
+- Hands-on experience with **real production incidents**
+
+---
+
+## 📂 Featured Repositories
+
+🔹 **Kubernetes Debugging Toolkit**  
+> Scripts and tools to extract full cluster visibility (nodes, CPU, memory, workloads)
+
+🔹 **Helm Charts Collection**  
+> Reusable, production-ready Helm charts for real-world workloads
+
+🔹 **Infra Automation (Python/Bash)**  
+> Automation scripts to reduce operational overhead
+
+_(More coming soon 🚧)_
+
+---
+
+## 📫 Let’s Connect
+
+- 💼 LinkedIn: *(https://www.linkedin.com/in/neha1301/)*
+- 📧 Email: *(nehashar1301@gmail.com)*
+- 💬 Always open to discussions on DevOps, SRE, and cloud infrastructure
+
+---
+
+⭐ **If you find my work useful, feel free to star a repo or connect!**
