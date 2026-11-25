@@ -1,96 +1,32 @@
-# 👋 Hi, I'm Neha Sharma
+# Neha Sharma
 
-🚀 **DevOps / Site Reliability Engineer**  
-☁️ Cloud • Kubernetes • Automation • Observability  
-📍 India
+**Site Reliability & DevOps Engineer** — DevOps Engineer II (SDE-2) at BharatPe
 
----
-
-## 👩‍💻 About Me
-
-I’m a **DevOps / SRE Engineer with ~2 years of hands-on experience** building, operating, and scaling cloud-native infrastructure.  
-I enjoy solving production issues, automating repetitive workflows, and improving system reliability using strong engineering principles.
-
-I work closely with developers and stakeholders to ensure systems are **reliable, observable, and cost-efficient** in production.
+- 📍 Gurugram, Haryana, India
+- 🔗 Portfolio: [neha1301.github.io](https://neha1301.github.io)
+- ✉️ nehasharma13dec2001@gmail.com
+- 💼 [linkedin.com/in/neha1301](https://www.linkedin.com/in/neha1301/)
 
 ---
 
-## 🛠️ Tech Stack
+## What I do
 
-### ☁️ Cloud & Infrastructure
-- AWS (EKS, EC2, IAM, VPC)
-- GCP (GKE)
-- Terraform (IaC)
-- Helm (production-grade charts)
+I own reliability for two business verticals: alerting, observability and production operations. Right now that means centralizing alerting across 5–10 services (one service alone emits 300–400 alerts), building ~10 Grafana dashboards over 15+ clusters, and moving logging off paid tooling onto Grafana, Prometheus and Loki.
 
-### 🐳 Containers & Orchestration
-- Kubernetes
-- Docker
-- KEDA (event-driven autoscaling)
-- Karpenter (node autoscaling)
+Previously at Devtron I operated 30+ production Kubernetes environments with zero-downtime upgrades, built a Python onboarding pipeline that cut onboarding time by 60%, and shipped SLO-driven observability plus Kubernetes v1.32 admission policies.
 
-### 📊 Observability & Reliability
-- Prometheus
-- Grafana
-- Alertmanager
-- Pyroscope
-- SLO / SLIs
-- Incident response & on-call practices
+## Featured projects
 
-### 🔁 CI/CD & Automation
-- Jenkins
-- GitLab CI
-- Bash & Python scripting
-- Deployment automation
+| Project | What it does |
+| --- | --- |
+| [alertbrief](https://github.com/neha1301/alertbrief) | FastAPI webhook that dedupes Alertmanager alerts, enriches them with Kubernetes context and posts one Slack message inside a 4-second budget. 75 tests, 91.34% coverage, Helm chart, read-only RBAC. |
+| [Kubernetes Node Insight Tool](https://github.com/neha1301/Kubernetes-Node-Insight-Tool) | Read-only, single-file Python CLI that correlates node conditions, kubelet OOM events and capacity into a severity-ranked root cause — including nodes that are `Ready` but degraded. |
 
-### 🖥️ OS & Debugging
-- Linux internals
-- Networking basics
-- Performance troubleshooting
-- Production debugging
+## Stack
 
----
+Kubernetes · AWS · GCP · Terraform · Helm · ArgoCD · Karpenter · Python · Prometheus · Grafana · Loki · Tempo · OpenTelemetry · FastAPI
 
-## 📌 What I’m Working On
+## Certifications
 
-- 🔹 Kubernetes debugging & visibility tooling  
-- 🔹 Improving cluster cost optimization and autoscaling strategies  
-- 🔹 Writing production-ready Python automation for infra & ops  
-- 🔹 Deepening SRE practices (SLOs, error budgets, incident retros)
-
----
-
-## 📈 Highlights
-
-- Automated operational workflows, reducing manual effort by **60%**
-- Built and managed **15+ Helm charts** for production environments
-- Led **AWS → GCP migration** with zero downtime
-- Improved MTTR by **25%** through better observability & automation
-- Hands-on experience with **real production incidents**
-
----
-
-## 📂 Featured Repositories
-
-🔹 **Kubernetes Debugging Toolkit**  
-> Scripts and tools to extract full cluster visibility (nodes, CPU, memory, workloads)
-
-🔹 **Helm Charts Collection**  
-> Reusable, production-ready Helm charts for real-world workloads
-
-🔹 **Infra Automation (Python/Bash)**  
-> Automation scripts to reduce operational overhead
-
-_(More coming soon 🚧)_
-
----
-
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: *(https://www.linkedin.com/in/neha1301/)*
-- 📧 Email: *(nehashar1301@gmail.com)*
-- 💬 Always open to discussions on DevOps, SRE, and cloud infrastructure
-
----
-
-⭐ **If you find my work useful, feel free to star a repo or connect!**
+- Certified Kubernetes Administrator (CKA) — [verify on Credly](https://www.credly.com/badges/4e34fd34-6b0f-4e5f-ae82-7c296f10ccd1)
+- Prometheus Certified Associate (PCA) — [verify on Credly](https://www.credly.com/badges/42c070f7-827d-4fb5-b1a9-3bd24320c8c3)
